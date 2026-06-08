@@ -1,1 +1,1 @@
-# projects
+Helmet Detection using Machine Learning is an AI-based system that detects motorcycle riders wearing helmets using YOLO and CNN. If no helmet is detected, the system extracts and recognizes the vehicle number plate using OCR technology automatically.# projects
